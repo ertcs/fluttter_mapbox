@@ -10,7 +10,7 @@ Demo application with mabbox sdk
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/5.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/6.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/7.png)
-![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/8.png)
+![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/19.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/9.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/10.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/11.png)
