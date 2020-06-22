@@ -22,7 +22,7 @@ Demo application with mabbox sdk
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/17.png)
 ![Alt text](https://github.com/ertcs/fluttter_mapbox/blob/master/screenshots/18.png)
 
-![Watch the video](http://img.youtube.com/vi/-vmgeE1nZkM/maxresdefault.jpg)](https://youtu.be/-vmgeE1nZkM)
+![Watch the video](http://i3.ytimg.com/vi/QM5N9AMnGos/hqdefault.jpg)](https://youtu.be/QM5N9AMnGos)
 
 
 ## Getting Started
